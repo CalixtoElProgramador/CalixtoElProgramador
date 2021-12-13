@@ -34,8 +34,12 @@
 
 ---
 
-<img align="center_horizontal" alt="Calixto's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalixtoElProgramador&layout=compact" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalixtoElProgramador&layout=compact" />
+
+</details>
 
 [application]: https://play.google.com/store/apps/details?id=com.listocalixto.dailycosmo&hl=es_MX&gl=US
 [twitter]: https://twitter.com/Listo__Calixto
