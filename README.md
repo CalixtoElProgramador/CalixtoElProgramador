@@ -10,8 +10,7 @@ I'm a renewable energy engineering student who for the love of art decided to st
 - 📌 2022 Goals: Contribute more to Open Source projects and develop iOS apps. 📱📈
 - 👉 **UI** & **UX** are just as important to me as good code.
 - 🖌 I like to use **Adobe XD** and **Figma** for the layout of my apps. 😁
-- ✨ Material Design guides are amazing.
-- 👀 As soon as I can, I will start studying **Material You**.
+- ✨ Material Design guides are amazing. As soon as I can, I will start studying **Material You**. 👀
 - ⚡ Fun fact: I love play piano / guitar / quena. 🎵
 
 #### Connect with me:
