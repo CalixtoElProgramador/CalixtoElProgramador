@@ -60,7 +60,7 @@ So, what are you waiting for? [Download it][application] and start your journey 
 
 ![figma_dailycosmos](https://raw.githubusercontent.com/CalixtoElProgramador/CalixtoElProgramador/master/daily_cosmos_main_mockup.jpg)
 
-#### Skills:
+#### Topics:
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Language&labelColor=212121&message=Kotlin&color=9719ff)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=IDE&labelColor=212121&message=AndroidStudio&color=9719ff)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Architecture&labelColor=212121&message=MVVM&color=9719ff)
