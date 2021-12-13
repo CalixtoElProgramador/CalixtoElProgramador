@@ -33,10 +33,9 @@
 <br />
 
 ---
-<img align="left" alt="Calixto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CalixtoElProgramador&show_icons=true&hide_border=true" />
 
----
-<img align="left" alt="Calixto's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalixtoElProgramador&layout=compact" />
+<img align="center_horizontal" alt="Calixto's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalixtoElProgramador&layout=compact" />
+
 
 [application]: https://play.google.com/store/apps/details?id=com.listocalixto.dailycosmo&hl=es_MX&gl=US
 [twitter]: https://twitter.com/Listo__Calixto
