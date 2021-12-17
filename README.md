@@ -24,12 +24,12 @@ I'm a renewable energy engineering student who for the love of art decided to st
 
 #### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"/>][github]
-[<img align="left" alt="Visual Studio Code" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fcode.visualstudio.com%2F&psig=AOvVaw0xLXnlRqosRS_EUaYR2JXf&ust=1639866624639000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODqma_x6_QCFQAAAAAdAAAAABAD"/>][github]
-[<img align="left" alt="PyCharm" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Icon.svg&psig=AOvVaw0z7jvl7W9Kp1aKtTVxsJR2&ust=1639866662677000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiZoMHx6_QCFQAAAAAdAAAAABAD"/>][github]
-[<img align="left" alt="Juoyter Notebook" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FProyecto_Jupyter&psig=AOvVaw2B4DmZExHc7QTXrrjnovrH&ust=1639866695772000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDugNHx6_QCFQAAAAAdAAAAABAD"/>][github]
-[<img align="left" alt="MATLAB" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AMatlab_Logo.png&psig=AOvVaw2VyUA9SHQbEGs53hCmzyyS&ust=1639866726396000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjO4N_x6_QCFQAAAAAdAAAAABAD"/>][github]
-[<img align="left" alt="Firebase" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fes%2Ficono%2Farchivo-tipo-de-firebase%2F130606&psig=AOvVaw0x8K70PjjrTBg8bTM-F2xS&ust=1639866762240000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNil2vDx6_QCFQAAAAAdAAAAABAI"/>][github]
+[<img align="left" alt="Android Studio" width="36px" src="https://portapps.io/img/app/android-studio.png"/>][github]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][github]
+[<img align="left" alt="PyCharm" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>][github]
+[<img align="left" alt="Juoyter Notebook" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png"/>][github]
+[<img align="left" alt="MATLAB" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
+[<img align="left" alt="Firebase" width="36px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png"/>][github]
 [<img align="left" alt="Google Cloud Platform" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fseekicon.com%2Ffree-icon%2Fgoogle-cloud-platform_2&psig=AOvVaw2AmpR7e0hf-UKEjIqYC51u&ust=1639866796120000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOih7IHy6_QCFQAAAAAdAAAAABAD"/>][github]
 [<img align="left" alt="Google Play Console" width="36px" src="https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole&hl=es_PY&gl=US"/>][github]
 [<img align="left" alt="Heroku" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fes%2Ficono%2Fheroku%2F130912&psig=AOvVaw02LJGyR4GcVwPZp_DSUnEV&ust=1639866863768000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjQvaLy6_QCFQAAAAAdAAAAABAD"/>][github]
