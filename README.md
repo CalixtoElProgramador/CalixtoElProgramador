@@ -24,7 +24,7 @@ I'm a renewable energy engineering student who for the love of art decided to st
 
 #### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fportapps.io%2Fnews%2F2019-08-20-android-studio-portable-3.5-5%2F&psig=AOvVaw3aJBa5l74kJx0Z0QdOsmHP&ust=1639866590764000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPifjJ_x6_QCFQAAAAAdAAAAABAD"/>][github]
+[<img align="left" alt="Android Studio" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png"/>][github]
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fcode.visualstudio.com%2F&psig=AOvVaw0xLXnlRqosRS_EUaYR2JXf&ust=1639866624639000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODqma_x6_QCFQAAAAAdAAAAABAD"/>][github]
 [<img align="left" alt="PyCharm" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Icon.svg&psig=AOvVaw0z7jvl7W9Kp1aKtTVxsJR2&ust=1639866662677000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiZoMHx6_QCFQAAAAAdAAAAABAD"/>][github]
 [<img align="left" alt="Juoyter Notebook" width="36px" src="https://www.google.com.mx/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FProyecto_Jupyter&psig=AOvVaw2B4DmZExHc7QTXrrjnovrH&ust=1639866695772000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDugNHx6_QCFQAAAAAdAAAAABAD"/>][github]
