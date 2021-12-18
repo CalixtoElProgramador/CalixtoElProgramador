@@ -15,16 +15,16 @@ I'm a renewable energy engineering student who for the love of art decided to st
 
 #### Connect with me:
 
-[<img align="left" alt="CalixtoElProgramador | YouTube" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="CalixtoElProgramador | Twitter" width="44px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
-[<img align="left" alt="CalixtoElProgramador | LinkedIn" width="36px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="CalixtoElProgramador | YouTube" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="CalixtoElProgramador | Twitter" width="46px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
+[<img align="left" alt="CalixtoElProgramador | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 <br />
 
 #### Languages:
 [<img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/>][github]
-[<img align="left" alt="Java" width="56px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg"/>][github]
+[<img align="left" alt="Java" width="40px" src="https://winxptalk.com/wp-content/uploads/2020/10/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png?ezimgfmt=rs:331x331/rscb3/ng:webp/ngcb3"/>][github]
 [<img align="left" alt="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"/>][github]
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>][github]
 [<img align="left" alt="Node.js" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png"/>][github]
