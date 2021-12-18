@@ -23,7 +23,11 @@ I'm a renewable energy engineering student who for the love of art decided to st
 <br />
 
 #### Languages and Tools:
-
+[<img align="left" alt="Kotlin" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/>][github]
+[<img align="left" alt="Java" width="54px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg"/>][github]
+[<img align="left" alt="Python" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>][github]
+[<img align="left" alt="SQLite" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"/>][github]
+[<img align="left" alt="Node.js" width="54px" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png"/>][github]
 [<img align="left" alt="Android Studio" width="54px" src="https://portapps.io/img/app/android-studio.png"/>][github]
 [<img align="left" alt="Visual Studio Code" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][github]
 [<img align="left" alt="PyCharm" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>][github]
@@ -43,6 +47,8 @@ I'm a renewable energy engineering student who for the love of art decided to st
 [<img align="left" alt="Adobe Illustrator" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"/>][github]
 [<img align="left" alt="Justinmind" width="54px" src="https://play-lh.googleusercontent.com/zIsj70_3CD3MNyXiCi-rNJiFTdJRRf_4MUhCi_Vodu0KCbJGZ_9p4UkcRN0vRFdwD2M=s180-rw"/>][github]
 
+<br />
+<br />
 <br />
 <br />
 
