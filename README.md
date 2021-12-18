@@ -24,7 +24,7 @@ I'm a renewable energy engineering student who for the love of art decided to st
 
 #### Languages:
 [<img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/>][github]
-[<img align="left" alt="Java" width="40px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg"/>][github]
+[<img align="left" alt="Java" width="56px" src="https://icon-library.com/images/java-icon-images/java-icon-images-11.jpg"/>][github]
 [<img align="left" alt="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"/>][github]
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>][github]
 [<img align="left" alt="Node.js" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png"/>][github]
