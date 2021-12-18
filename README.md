@@ -36,6 +36,7 @@ I'm a renewable energy engineering student who for the love of art decided to st
 #### Software and Tools:
 [<img align="left" alt="Android Studio" width="40px" src="https://portapps.io/img/app/android-studio.png"/>][github]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][github]
+[<img align="left" alt="Apache NetBeans" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png"/>][github]
 [<img align="left" alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>][github]
 [<img align="left" alt="Juoyter Notebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png"/>][github]
 [<img align="left" alt="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
@@ -44,7 +45,9 @@ I'm a renewable energy engineering student who for the love of art decided to st
 [<img align="left" alt="Google Play Console" width="40px" src="https://play-lh.googleusercontent.com/HRhU-Op-AGE_TE0cP-GGPxpVfDWqXD8c2jiqto8_qWn-o0a21_y-VBr4wkzMekuSpg=s180-rw"/>][github]
 [<img align="left" alt="Heroku" width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png"/>][github]
 [<img align="left" alt="Postman" width="40px" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg"/>][github]
+[<img align="left" alt="Git" width="40px" src="https://jeanmazuelos.com/sites/default/files/styles/large/public/field/image/git_logo.png?itok=ZsP-3--g"/>][github]
 [<img align="left" alt="GitHub" width="40px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png"/>][github]
+[<img align="left" alt="PowerShell" width="40px" src="https://1.bp.blogspot.com/-801vVt-o500/XOUYdAgVgAI/AAAAAAAAGt0/AYHtqEcSVUE6ZpYCfcSBauVcpat0bJ5ywCLcBGAs/s1600/PowerShell_5.0_icon.png"/>][github]
 
 <br />
 <br />
