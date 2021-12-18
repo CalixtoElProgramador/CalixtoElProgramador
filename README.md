@@ -47,7 +47,7 @@ I'm a renewable energy engineering student who for the love of art decided to st
 [<img align="left" alt="Postman" width="40px" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg"/>][github]
 [<img align="left" alt="Git" width="40px" src="https://jeanmazuelos.com/sites/default/files/styles/large/public/field/image/git_logo.png?itok=ZsP-3--g"/>][github]
 [<img align="left" alt="GitHub" width="40px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png"/>][github]
-[<img align="left" alt="PowerShell" width="40px" src="https://1.bp.blogspot.com/-801vVt-o500/XOUYdAgVgAI/AAAAAAAAGt0/AYHtqEcSVUE6ZpYCfcSBauVcpat0bJ5ywCLcBGAs/s1600/PowerShell_5.0_icon.png"/>][github]
+[<img align="left" alt="Terminal" width="40px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png"/>][github]
 
 <br />
 <br />
