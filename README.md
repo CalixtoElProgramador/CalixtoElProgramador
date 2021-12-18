@@ -35,8 +35,6 @@ I'm a renewable energy engineering student who for the love of art decided to st
 [<img align="left" alt="Heroku" width="54px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png"/>][github]
 [<img align="left" alt="Postman" width="54px" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg"/>][github]
 [<img align="left" alt="Git" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/>][github]
-<br />
-<br />
 [<img align="left" alt="GitHub" width="54px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png"/>][github]
 [<img align="left" alt="Terminal" width="54px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png"/>][github]
 [<img align="left" alt="Material Design" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/512px-Google_Material_Design_Logo.svg.png"/>][github]
