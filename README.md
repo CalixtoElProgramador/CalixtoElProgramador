@@ -33,7 +33,7 @@ I'm a renewable energy engineering student who for the love of art decided to st
 <br />
 <br />
 
-#### Languages and Tools:
+#### Software and Tools:
 [<img align="left" alt="Android Studio" width="54px" src="https://portapps.io/img/app/android-studio.png"/>][github]
 [<img align="left" alt="Visual Studio Code" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][github]
 [<img align="left" alt="PyCharm" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>][github]
@@ -53,8 +53,8 @@ I'm a renewable energy engineering student who for the love of art decided to st
 
 <br />
 <br />
-
----
+<br />
+<br />
 
 #### Phrases I like
 
