@@ -94,6 +94,7 @@ So, what are you waiting for? [Download it][application] and start your journey 
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Firebase&labelColor=212121&message=Authentification&color=ff9819)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Firebase&labelColor=212121&message=Store&color=ff9819)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Firebase&labelColor=212121&message=Storage&color=ff9819)
+![](https://img.shields.io/static/v1??style=flat-squaren&label=Firebase&labelColor=212121&message=MLKitTranslator&color=ff9819)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Firebase&labelColor=212121&message=Crashlytics&color=ff9819)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Firebase&labelColor=212121&message=TestLab&color=ff9819)
 ![](https://img.shields.io/static/v1??style=flat-squaren&label=Permissions&labelColor=212121&message=Camara&color=#a4c639)
