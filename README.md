@@ -5,7 +5,7 @@
 I'm a renewable energy engineering student who for the love of art decided to study Android development in a self-taught way. Recently I have published an application in the Play Store using Clean Architecture with MVVM in Kotlin called "DailyCosmos". Right now, I'm developing a professional project for users to perform the sizing of photovoltaic systems. 
 
 - 🔭 I just launched my first application: [DailyCosmos: The universe on your hands!][application] 🪐
-- 🌱 I’m currently learning **Jetpack Compose** & **MVI**. 🤓
+- 🌱 I’m currently learning **ECommerce app** & **Backend with Node.js**. 🤓
 - 🔍 **I'm looking for employment**, preferably home office. 🏡
 - 📌 2022 Goals: Contribute more to Open Source projects, improve my commits and develope iOS apps. 📱
 - 👉 **UI** & **UX** are just as important to me as good code. 👈
