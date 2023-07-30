@@ -1,14 +1,5 @@
 # Hello world, my name is Aarón Calixto! 👋✌
 
-#### Connect with me:
-
-[<img align="left" alt="CalixtoElProgramador | YouTube" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
-[<img align="left" alt="CalixtoElProgramador | Twitter" width="46px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
-[<img align="left" alt="CalixtoElProgramador | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
-<br />
-<br />
-
 #### Phrases I like
 
 - "_Software is a great combination of art and engineering._" -- Bill Gates
