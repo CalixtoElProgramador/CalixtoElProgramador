@@ -1,18 +1,5 @@
 # Hello world, my name is Aarón Calixto! 👋✌
 
-### I'm a Android Developer, UI & UX enthusiast 👨‍💻🎨
-
-I'm a renewable energy engineering student who for the love of art decided to study Android development in a self-taught way. Recently I have published an application in the Play Store using Clean Architecture with MVVM in Kotlin called "DailyCosmos". Right now, I'm developing a professional project for users to perform the sizing of photovoltaic systems. 
-
-- 🔭 I just launched my first application: [DailyCosmos: The universe on your hands!][application] 🪐
-- 🌱 I’m currently learning **ECommerce app** & **Backend with Node.js**. 🤓
-- 🔍 **I'm looking for employment**, preferably home office. 🏡
-- 📌 2022 Goals: Contribute more to Open Source projects, improve my commits and develope iOS apps. 📱
-- 👉 **UI** & **UX** are just as important to me as good code. 👈
-- 🖌 I like to use **Adobe XD** and **Figma** for the layout of my apps. 😁
-- ✨ Material Design guides are amazing. As soon as I can, I will start studying **Material You**. 👀
-- ⚡ Fun fact: I love play piano / guitar / quena. 🎵
-
 #### Connect with me:
 
 [<img align="left" alt="CalixtoElProgramador | YouTube" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
