@@ -9,46 +9,6 @@
 <br />
 <br />
 
-#### Languages:
-[<img align="left" alt="Kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"/>][github]
-[<img align="left" alt="Java" width="40px" src="https://winxptalk.com/wp-content/uploads/2020/10/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png?ezimgfmt=rs:331x331/rscb3/ng:webp/ngcb3"/>][github]
-[<img align="left" alt="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"/>][github]
-[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"/>][github]
-[<img align="left" alt="Node.js" width="40px" src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png"/>][github]
-[<img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/>][github]
-
-<br />
-<br />
-
-#### Software and Tools:
-[<img align="left" alt="Android Studio" width="40px" src="https://portapps.io/img/app/android-studio.png"/>][github]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>][github]
-[<img align="left" alt="Apache NetBeans" width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/frame256.png"/>][github]
-[<img align="left" alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/>][github]
-[<img align="left" alt="Juoyter Notebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png"/>][github]
-[<img align="left" alt="MATLAB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/>][github]
-[<img align="left" alt="Firebase" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png"/>][github]
-[<img align="left" alt="Google Cloud Platform" width="40px" src="https://seekicon.com/free-icon-download/google-cloud-platform_2.svg"/>][github]
-[<img align="left" alt="Google Play Console" width="40px" src="https://play-lh.googleusercontent.com/HRhU-Op-AGE_TE0cP-GGPxpVfDWqXD8c2jiqto8_qWn-o0a21_y-VBr4wkzMekuSpg=s180-rw"/>][github]
-[<img align="left" alt="Heroku" width="40px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png"/>][github]
-[<img align="left" alt="Postman" width="40px" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg"/>][github]
-[<img align="left" alt="Git" width="40px" src="https://jeanmazuelos.com/sites/default/files/styles/large/public/field/image/git_logo.png?itok=ZsP-3--g"/>][github]
-[<img align="left" alt="GitHub" width="40px" src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png"/>][github]
-[<img align="left" alt="Terminal" width="40px" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/terminal-icon.png"/>][github]
-
-<br />
-<br />
-
-#### Design:
-[<img align="left" alt="Material Design" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Material_Design_Logo.svg/512px-Google_Material_Design_Logo.svg.png"/>][github]
-[<img align="left" alt="Figma" width="40px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"/>][github]
-[<img align="left" alt="Adobe XD" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/512px-Adobe_XD_CC_icon.svg.png"/>][github]
-[<img align="left" alt="Adobe Illustrator" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"/>][github]
-[<img align="left" alt="Justinmind" width="40px" src="https://play-lh.googleusercontent.com/zIsj70_3CD3MNyXiCi-rNJiFTdJRRf_4MUhCi_Vodu0KCbJGZ_9p4UkcRN0vRFdwD2M=s180-rw"/>][github]
-
-<br />
-<br />
-
 #### Phrases I like
 
 - "_Software is a great combination of art and engineering._" -- Bill Gates
